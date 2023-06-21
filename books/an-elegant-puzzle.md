@@ -1,4 +1,15 @@
-# [An Elegant Puzzle: Systems of Engineering Management](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle)
+# An Elegant Puzzle: Systems of Engineering Management
+
+```
+I'm currently reading this book so notes might change
+```
+
+---
+- Author: Will Larson
+- Goodreads Link: [https://www.goodreads.com/book/show/45303387-an-elegant-puzzle)](https://www.goodreads.com/book/show/45303387-an-elegant-puzzle))
+- Amazon Affiliate Link: [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.co.uk/Elegant-Puzzle-Systems-Engineering-Management/dp/1732265186?&_encoding=UTF8&tag=bookreferrals-21&linkCode=ur2&linkId=99e01ce588330c2ae7aae073c5095c31&camp=1634&creative=6738)
+
+---
 
 - [Organisations](#organisations)
 - [Tools](#tools)
