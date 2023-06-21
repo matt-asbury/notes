@@ -47,6 +47,26 @@ defaults:
     values:
       parent: Books
       nav_exclude: false
+  - scope:
+      path: "articles"
+    values:
+      parent: Articles
+      nav_exclude: false
+  - scope:
+      path: "podcasts"
+    values:
+      parent: Podcasts
+      nav_exclude: false
+  - scope:
+      path: "talks"
+    values:
+      parent: Talks
+      nav_exclude: false
+  - scope:
+      path: "backlog"
+    values:
+      parent: Backlog
+      nav_exclude: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
