@@ -28,6 +28,7 @@ url: "https://matt-asbury.github.io/notes/" # the base hostname & protocol for y
 
 # Build settings
 theme: just-the-docs
+remote_theme: just-the-docs
 
 plugins:
   - jekyll-seo-tag
