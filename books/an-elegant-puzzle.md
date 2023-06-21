@@ -11,6 +11,8 @@
 
 ## Introduction
 
+Organisational design gets the right people in the right places, empowers them to make decisions, and then holds them accountable for their results. Maintained consistently and changed sparingly, nothing else will help you scale more.
+
 ## Organisations
 
 ## Tools
