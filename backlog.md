@@ -54,6 +54,7 @@ This is a collection of books, articles, podcasts, etc. that I will eventually g
 - [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/book/show/57345270-modern-software-engineering){:target="_blank}
 - [Team of Teams: New Rules of Engagement for a Complex World](https://www.goodreads.com/book/show/22529127-team-of-teams){:target="_blank}
 - [No Rules Rules: Netflix and the Culture of Reinvention](https://www.goodreads.com/book/show/49099937-no-rules-rules){:target="_blank}
+- [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies){:target="_blank}
 
 
 ## Articles
