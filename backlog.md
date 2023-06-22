@@ -42,6 +42,19 @@ This is a collection of books, articles, podcasts, etc. that I will eventually g
 - [Finding Flow: The Psychology of Engagement with Everyday Life](https://www.goodreads.com/book/show/66321.Finding_Flow){:target="_blank}
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders](https://www.goodreads.com/book/show/16158601-turn-the-ship-around){:target="_blank}
 - [Peopleware: Productive Projects and Teams](https://www.goodreads.com/book/show/67825.Peopleware){:target="_blank}
+- [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.goodreads.com/book/show/3735293-clean-code){:target="_blank}
+- [The Clean Coder: A Code of Conduct for Professional Programmers](https://www.goodreads.com/book/show/10284614-the-clean-coder){:target="_blank}
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.goodreads.com/book/show/85009.Design_Patterns){:target="_blank}
+- [Head First Design Patterns](https://www.goodreads.com/book/show/58128.Head_First_Design_Patterns){:target="_blank}
+- [Patterns of Enterprise Application Architecture](https://www.goodreads.com/book/show/70156.Patterns_of_Enterprise_Application_Architecture){:target="_blank}
+- [Refactoring: Improving the Design of Existing Code](https://www.goodreads.com/book/show/44936.Refactoring){:target="_blank}
+- [Soft Skills: The Software Developer's Life Manual](https://www.goodreads.com/book/show/23232941-soft-skills){:target="_blank}
+- [The Pragmatic Programmer: From Journeyman to Master](https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer){:target="_blank}
+- [The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations](https://www.goodreads.com/book/show/26083308-the-devops-handbook){:target="_blank}
+- [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/book/show/57345270-modern-software-engineering){:target="_blank}
+- [Team of Teams: New Rules of Engagement for a Complex World](https://www.goodreads.com/book/show/22529127-team-of-teams){:target="_blank}
+- [No Rules Rules: Netflix and the Culture of Reinvention](https://www.goodreads.com/book/show/49099937-no-rules-rules){:target="_blank}
+
 
 ## Articles
 
