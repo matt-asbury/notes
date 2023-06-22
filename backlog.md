@@ -55,7 +55,20 @@ This is a collection of books, articles, podcasts, etc. that I will eventually g
 - [Team of Teams: New Rules of Engagement for a Complex World](https://www.goodreads.com/book/show/22529127-team-of-teams){:target="_blank}
 - [No Rules Rules: Netflix and the Culture of Reinvention](https://www.goodreads.com/book/show/49099937-no-rules-rules){:target="_blank}
 - [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.goodreads.com/book/show/44135420-team-topologies){:target="_blank}
-
+- [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change](https://www.goodreads.com/book/show/33369254-the-manager-s-path){:target="_blank}
+- [The Making of a Manager: What to Do When Everyone Looks to You](https://www.goodreads.com/book/show/38821039-the-making-of-a-manager){:target="_blank}
+- [Clean Architecture](https://www.goodreads.com/book/show/18043011-clean-architecture){:target="_blank}
+- [The Mythical Man-Month: Essays on Software Engineering](https://www.goodreads.com/book/show/13629.The_Mythical_Man_Month){:target="_blank}
+- [Designing Data-Intensive Applications](https://www.goodreads.com/book/show/23463279-designing-data-intensive-applications){:target="_blank}
+- [Fundamentals of Data Engineering: Plan and Build Robust Data Systems](https://www.goodreads.com/book/show/61218623-fundamentals-of-data-engineering){:target="_blank}
+- [Boyd: The Fighter Pilot Who Changed the Art of War](https://www.goodreads.com/book/show/38840.Boyd){:target="_blank}
+- [Do the Work](https://www.goodreads.com/book/show/11041601-do-the-work){:target="_blank}
+- [Courage Is Calling: Fortune Favors the Brave](https://www.goodreads.com/book/show/58145670-courage-is-calling){:target="_blank}
+- [Discipline Is Destiny: The Power of Self-Control](https://www.goodreads.com/book/show/60018575-discipline-is-destiny){:target="_blank}
+- [Leading Change](https://www.goodreads.com/book/show/13586934-leading-change){:target="_blank}
+- [Left of Bang: How the Marine Corps' Combat Hunter Program Can Save Your Life](https://www.goodreads.com/book/show/22663095-left-of-bang){:target="_blank}
+- [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture){:target="_blank}
+- [User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.goodreads.com/book/show/22221112-user-story-mapping){:target="_blank}
 
 ## Articles
 
