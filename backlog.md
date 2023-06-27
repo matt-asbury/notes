@@ -69,6 +69,8 @@ This is a collection of books, articles, podcasts, etc. that I will eventually g
 - [Left of Bang: How the Marine Corps' Combat Hunter Program Can Save Your Life](https://www.goodreads.com/book/show/22663095-left-of-bang){:target="_blank}
 - [Fundamentals of Software Architecture: An Engineering Approach](https://www.goodreads.com/book/show/44144493-fundamentals-of-software-architecture){:target="_blank}
 - [User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.goodreads.com/book/show/22221112-user-story-mapping){:target="_blank}
+- [The Advantage: Why Organizational Health Trumps Everything Else In Business](https://www.goodreads.com/book/show/12975375-the-advantage){:target="_blank}
+- [The Ideal Team Player: How to Recognize and Cultivate The Three Essential Virtues](https://www.goodreads.com/book/show/28930640-the-ideal-team-player){:target="_blank}
 
 ## Articles
 
