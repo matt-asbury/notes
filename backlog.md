@@ -74,6 +74,9 @@ This is a collection of books, articles, podcasts, etc. that I will eventually g
 
 ## Articles
 
+- [Compassionate on call](https://twitter.com/Geek_Manager/status/1673627225453723648?s=20){:target="_blank}
+- [Simon Sinek - Leadership in 5 minutes](https://www.linkedin.com/posts/pablofernandezalvarez_leadership-activity-7074303825725071360-pz4A?utm_source=share&utm_medium=member_desktop){:target="_blank}
+
 ## Podcasts
 
 ## Talks
