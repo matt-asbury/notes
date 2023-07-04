@@ -81,3 +81,5 @@ This is a collection of books, articles, podcasts, etc. that I will eventually g
 ## Podcasts
 
 ## Talks
+
+- [Real Software Engineering - Glenn Vanderburg](https://www.youtube.com/watch?v=RhdlBHHimeMhttps://www.youtube.com/watch?v=RhdlBHHimeM)
