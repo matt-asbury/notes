@@ -77,6 +77,8 @@ This is a collection of books, articles, podcasts, etc. that I will eventually g
 - [Compassionate on call](https://twitter.com/Geek_Manager/status/1673627225453723648?s=20)
 - [Simon Sinek - Leadership in 5 minutes](https://www.linkedin.com/posts/pablofernandezalvarez_leadership-activity-7074303825725071360-pz4A?utm_source=share&utm_medium=member_desktop)
 - [Amazon writing tips](https://twitter.com/petergyang/status/1673337860097728513?s=20)
+- [KUBA framework for communicating the why behind strategy](https://twitter.com/amandamgoetz/status/1678801383007612928?s=12)
+- ["Books everyone needs to read"](https://twitter.com/aliabdaal/status/1683432410648649728?s=12)
 
 ## Podcasts
 
