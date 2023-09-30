@@ -79,7 +79,7 @@ This is a collection of books, articles, podcasts, etc. that I will eventually g
 - [Amazon writing tips](https://twitter.com/petergyang/status/1673337860097728513?s=20)
 - [KUBA framework for communicating the why behind strategy](https://twitter.com/amandamgoetz/status/1678801383007612928?s=12)
 - ["Books everyone needs to read"](https://twitter.com/aliabdaal/status/1683432410648649728?s=12)
-- ["Magic Prioritisation"](https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization)
+- [Magic Prioritisation](https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization)
 
 ## Podcasts
 
