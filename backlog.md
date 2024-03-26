@@ -80,6 +80,9 @@ This is a collection of books, articles, podcasts, etc. that I will eventually g
 - [KUBA framework for communicating the why behind strategy](https://twitter.com/amandamgoetz/status/1678801383007612928?s=12)
 - ["Books everyone needs to read"](https://twitter.com/aliabdaal/status/1683432410648649728?s=12)
 - [Magic Prioritisation](https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization)
+- [30 System Design Lessons](https://x.com/mipsytipsy/status/1620682869780926466?s=12)
+- [Why it's okay to be understaffed](https://twitter.com/mipsytipsy/status/1620682869780926466)
+- [AI Courses](https://www.linkedin.com/feed/update/urn:li:activity:7177324177425616897/?utm_source=share&utm_medium=member_ios)
 
 ## Podcasts
 
