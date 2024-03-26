@@ -8,7 +8,7 @@ nav_order: 6
 This is a collection of books, articles, podcasts, etc. that I will eventually get around to reading or re-reading for notes.
 
 ## Books
-- [Engineering Management for the Rest of Us](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us){:target="_blank"}
+- [Engineering Management for the Rest of Us](https://www.goodreads.com/book/show/58502800-engineering-management-for-the-rest-of-us)
 - [The Crux: How Leaders Become Strategists](https://www.goodreads.com/book/show/58895961-the-crux)
 - [Staff Engineer: Leadership Beyond the Management Track](https://www.goodreads.com/book/show/56481725-staff-engineer)
 - [Accelerate: Building and Scaling High Performing Technology Organizations](https://www.goodreads.com/book/show/35747076-accelerate)
